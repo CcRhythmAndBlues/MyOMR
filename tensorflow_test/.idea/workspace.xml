@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/OMR2/MyCNN.py" line="110" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b955aa3-c24c-446c-8d23-de821fb45adc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="tensorflow_test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kaggle/nlp_1th/demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GarageArea</find>
+      <find>SaleType</find>
+      <find>total</find>
+      <find>bsmt</find>
+      <find>garageare</find>
+      <find>fillna</find>
+      <find>lot</find>
+      <find>med</find>
+      <find>MSZ</find>
+      <find>bsmtfull</find>
+      <find>bsmthalf</find>
+      <find>util</find>
+      <find>func</find>
+      <find>ele</find>
+      <find>kitc</find>
+      <find>GarageYrBlt</find>
+      <find>no</find>
+      <find>None</find>
+      <find>BsmtFinSF1</find>
+      <find>drop</find>
+      <find>sale</find>
+      <find>chann</find>
+      <find>depth_out1</find>
+      <find>batch_size</find>
+      <find>test_x</find>
+      <find>keep_prob</find>
+      <find>img</find>
+      <find>100</find>
+      <find>200</find>
+      <find>y</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OMR.py" />
+        <option value="$PROJECT_DIR$/OMR/image_input1.py" />
+        <option value="$PROJECT_DIR$/OMR/image_input2.py" />
+        <option value="$PROJECT_DIR$/OMR/image_input3.py" />
+        <option value="$PROJECT_DIR$/OMR/image_input4.py" />
+        <option value="$PROJECT_DIR$/OMR/covert_to_TFrecord.py" />
+        <option value="$PROJECT_DIR$/OMR/loadImgByBook.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/OMR/demoByBook.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/cnnUntil.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/CNN.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/original_CNN.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/test_CNN.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/test.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/util.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/aa/aaa.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/Restore.py" />
+        <option value="$PROJECT_DIR$/OMR2.0/MyCNN.py" />
+        <option value="$PROJECT_DIR$/OMR2/util.py" />
+        <option value="$PROJECT_DIR$/OMR2/Music_Play.py" />
+        <option value="$PROJECT_DIR$/GUI/MyGUI.py" />
+        <option value="$PROJECT_DIR$/titanic/feature_selection_demo.py" />
+        <option value="$PROJECT_DIR$/titanic/a.py" />
+        <option value="$PROJECT_DIR$/kaggle/titanic/feature_selection_demo.py" />
+        <option value="$PROJECT_DIR$/OMR4/MyCNN.py" />
+        <option value="$PROJECT_DIR$/kaggle/titanic/b.py" />
+        <option value="$PROJECT_DIR$/kaggle/数据清洗8要点.txt" />
+        <option value="$PROJECT_DIR$/kaggle/titanic/a.py" />
+        <option value="$PROJECT_DIR$/kaggle/HousePrices/demo.py" />
+        <option value="$PROJECT_DIR$/kaggle/stack.py" />
+        <option value="$PROJECT_DIR$/OMR2/result.txt" />
+        <option value="$PROJECT_DIR$/OMR2/33.txt" />
+        <option value="$PROJECT_DIR$/OMR2/55.txt" />
+        <option value="$PROJECT_DIR$/lambda_test.py" />
+        <option value="$PROJECT_DIR$/OMR2/Restore.py" />
+        <option value="$PROJECT_DIR$/OMR3/77.txt" />
+        <option value="$PROJECT_DIR$/pd.py" />
+        <option value="$PROJECT_DIR$/DataVisual/loss.py" />
+        <option value="$PROJECT_DIR$/DataVisual/2CNN1111.txt" />
+        <option value="$PROJECT_DIR$/OMR3/MyCNN.py" />
+        <option value="$PROJECT_DIR$/DataVisual/3CNN33.txt" />
+        <option value="$PROJECT_DIR$/OMR2_1_nopool/MyCNN.py" />
+        <option value="$PROJECT_DIR$/DataVisual/2L_77_noPool.txt" />
+        <option value="$PROJECT_DIR$/kaggle/demo.py" />
+        <option value="$PROJECT_DIR$/kaggle/HousePrices/a.py" />
+        <option value="$PROJECT_DIR$/DataVisual/visual.py" />
+        <option value="$PROJECT_DIR$/OMR2/MyGUI.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/kaggle/nlp_1th/demo.py" />
+        <option value="$PROJECT_DIR$/OMR2/MyCNN.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="146" />
+    <option name="y" value="99" />
+    <option name="width" value="1061" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tensorflow_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow_test" type="462c0819:PsiDirectoryNode" />
+              <item name="OMR2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/tantu_branch_chenchen/tantu_panel_back" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\pycharm project\tensorflow_test" />
+      <recent name="E:\pycharm project\tensorflow_test\OMR3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pycharm project\tensorflow_test\kaggle\nlp_1th" />
+      <recent name="E:\pycharm project\tensorflow_test\Datavisual" />
+      <recent name="E:\pycharm project\tensorflow_test\kaggle\HousePrices" />
+      <recent name="E:\pycharm project\tensorflow_test\OMR2" />
+      <recent name="E:\pycharm project\tensorflow_test\OMR2\MyMusic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.MyCNN">
+    <configuration name="MyCNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OMR2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OMR2/MyCNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OMR2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OMR2/MyGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaggle/nlp_1th" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaggle/nlp_1th/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tensorflow_test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataVisual" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataVisual/visual.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MyCNN" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.demo (1)" />
+        <item itemvalue="Python.MyGUI" />
+        <item itemvalue="Python.visual" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b955aa3-c24c-446c-8d23-de821fb45adc" name="Default Changelist" comment="" />
+      <created>1570672342329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570672342329</updated>
+      <workItem from="1570672416592" duration="619000" />
+      <workItem from="1570675776872" duration="599000" />
+      <workItem from="1570691780002" duration="145000" />
+      <workItem from="1570935702693" duration="2990000" />
+      <workItem from="1571032788360" duration="18000" />
+      <workItem from="1571109114982" duration="1631000" />
+      <workItem from="1571204351885" duration="7657000" />
+      <workItem from="1571299108627" duration="3126000" />
+      <workItem from="1571312143257" duration="596000" />
+      <workItem from="1571622922425" duration="895000" />
+      <workItem from="1571628190957" duration="1545000" />
+      <workItem from="1572179248960" duration="803000" />
+      <workItem from="1572226558470" duration="7992000" />
+      <workItem from="1572247648013" duration="3208000" />
+      <workItem from="1572259631602" duration="4570000" />
+      <workItem from="1572311537519" duration="602000" />
+      <workItem from="1572335755991" duration="3337000" />
+      <workItem from="1572421665721" duration="1622000" />
+      <workItem from="1572517577670" duration="3865000" />
+      <workItem from="1572695597891" duration="3280000" />
+      <workItem from="1572704842261" duration="6312000" />
+      <workItem from="1572767584017" duration="6926000" />
+      <workItem from="1572835675550" duration="4257000" />
+      <workItem from="1572842652589" duration="908000" />
+      <workItem from="1572846577357" duration="3581000" />
+      <workItem from="1572862276078" duration="6410000" />
+      <workItem from="1572917480170" duration="6387000" />
+      <workItem from="1572933930147" duration="8467000" />
+      <workItem from="1573019438307" duration="14707000" />
+      <workItem from="1573124205266" duration="6290000" />
+      <workItem from="1573192015014" duration="2400000" />
+      <workItem from="1573470918037" duration="264000" />
+      <workItem from="1573472143075" duration="125000" />
+      <workItem from="1573480387246" duration="1915000" />
+      <workItem from="1573654630871" duration="1278000" />
+      <workItem from="1573698823174" duration="4362000" />
+      <workItem from="1573711874434" duration="3976000" />
+      <workItem from="1573972643078" duration="6409000" />
+      <workItem from="1574065833764" duration="655000" />
+      <workItem from="1574077385840" duration="4929000" />
+      <workItem from="1574232151649" duration="981000" />
+      <workItem from="1574303646897" duration="217000" />
+      <workItem from="1575337253879" duration="13426000" />
+      <workItem from="1575367989499" duration="1617000" />
+      <workItem from="1575557217719" duration="3109000" />
+      <workItem from="1575616392109" duration="374000" />
+      <workItem from="1575854686867" duration="70000" />
+      <workItem from="1575859621652" duration="1195000" />
+      <workItem from="1575936775138" duration="10130000" />
+      <workItem from="1575956015772" duration="1053000" />
+      <workItem from="1575957162378" duration="5726000" />
+      <workItem from="1575975076105" duration="3653000" />
+      <workItem from="1576057911272" duration="3691000" />
+      <workItem from="1576399133993" duration="3683000" />
+      <workItem from="1576543653409" duration="820000" />
+      <workItem from="1576561730800" duration="83000" />
+      <workItem from="1576577120306" duration="11391000" />
+      <workItem from="1576597094016" duration="2623000" />
+      <workItem from="1576645112572" duration="2104000" />
+      <workItem from="1576735884903" duration="2670000" />
+      <workItem from="1576801017280" duration="3520000" />
+      <workItem from="1576809306724" duration="12000" />
+      <workItem from="1579663705570" duration="654000" />
+      <workItem from="1579683725653" duration="13517000" />
+      <workItem from="1579746185298" duration="15339000" />
+      <workItem from="1579949525949" duration="1335000" />
+      <workItem from="1580101190210" duration="2722000" />
+      <workItem from="1580116071496" duration="548000" />
+      <workItem from="1582557672708" duration="26697000" />
+      <workItem from="1582697134234" duration="5894000" />
+      <workItem from="1582768342268" duration="8595000" />
+      <workItem from="1582951035881" duration="41068000" />
+      <workItem from="1583395042191" duration="30540000" />
+      <workItem from="1583646320785" duration="487000" />
+      <workItem from="1583733081208" duration="4812000" />
+      <workItem from="1583755851421" duration="1916000" />
+      <workItem from="1584686253465" duration="4262000" />
+      <workItem from="1584707444640" duration="1866000" />
+      <workItem from="1584881157135" duration="50927000" />
+      <workItem from="1585194684604" duration="148000" />
+      <workItem from="1585195407026" duration="2613000" />
+      <workItem from="1585271106242" duration="2305000" />
+      <workItem from="1585324221402" duration="1934000" />
+      <workItem from="1585814994042" duration="788000" />
+      <workItem from="1586483363193" duration="2612000" />
+      <workItem from="1586604827412" duration="3856000" />
+      <workItem from="1586677570530" duration="6509000" />
+      <workItem from="1587430456799" duration="624000" />
+      <workItem from="1587867837880" duration="2744000" />
+      <workItem from="1587882057836" duration="53000" />
+      <workItem from="1587887359237" duration="12000" />
+      <workItem from="1588744070264" duration="324000" />
+      <workItem from="1588760009631" duration="519000" />
+      <workItem from="1588827273115" duration="1005000" />
+      <workItem from="1589428278316" duration="1134000" />
+      <workItem from="1589526878287" duration="4164000" />
+      <workItem from="1589546492091" duration="421000" />
+      <workItem from="1589559517623" duration="4607000" />
+      <workItem from="1589766817463" duration="108000" />
+      <workItem from="1590144393525" duration="130000" />
+      <workItem from="1590144633040" duration="23000" />
+      <workItem from="1591957117992" duration="2924000" />
+      <workItem from="1592015492621" duration="4200000" />
+      <workItem from="1592033151132" duration="8030000" />
+      <workItem from="1592186939605" duration="623000" />
+      <workItem from="1594394428864" duration="216000" />
+      <workItem from="1594436519958" duration="708000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="476319000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4970588" visible="true" weight="0.21331316" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5029412" side_tool="true" weight="0.17700455" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37091503" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.26633987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.07026144" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32843137" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.022692889" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3287827" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tensorflow_test$test_CNN.coverage" NAME="test_CNN Coverage Results" MODIFIED="1576061589758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2.0" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$1.coverage" NAME="1 Coverage Results" MODIFIED="1573027044425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$MyCNN__2_.coverage" NAME="MyCNN (2) Coverage Results" MODIFIED="1585132086768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$MyGUI.coverage" NAME="MyGUI Coverage Results" MODIFIED="1589592268156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$demo.coverage" NAME="demo Coverage Results" MODIFIED="1586617718616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$pd.coverage" NAME="pd Coverage Results" MODIFIED="1576579079990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$loadImgByBook.coverage" NAME="loadImgByBook Coverage Results" MODIFIED="1573091656946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$MyCNN.coverage" NAME="MyCNN Coverage Results" MODIFIED="1594394608435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$image_input3.coverage" NAME="image_input3 Coverage Results" MODIFIED="1572262987340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1592042471662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/nlp_1th" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$Music_Play.coverage" NAME="Music_Play Coverage Results" MODIFIED="1576802405304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$visual.coverage" NAME="visual Coverage Results" MODIFIED="1589546871697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataVisual" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$MyGUI__1_.coverage" NAME="MyGUI (1) Coverage Results" MODIFIED="1580106016149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$OMR.coverage" NAME="OMR Coverage Results" MODIFIED="1572234490868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$b.coverage" NAME="b Coverage Results" MODIFIED="1583231195446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/titanic" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$lambda_test.coverage" NAME="lambda_test Coverage Results" MODIFIED="1585027650360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$image_input1.coverage" NAME="image_input1 Coverage Results" MODIFIED="1572251544613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$number_recognize.coverage" NAME="number_recognize Coverage Results" MODIFIED="1582592957245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$image_input4.coverage" NAME="image_input4 Coverage Results" MODIFIED="1572263241557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$demoByBook.coverage" NAME="demoByBook Coverage Results" MODIFIED="1573091537802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$MyCNN__1_.coverage" NAME="MyCNN (1) Coverage Results" MODIFIED="1585324870495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2_1_nopool" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$feature_selection_demo__1_.coverage" NAME="feature_selection_demo (1) Coverage Results" MODIFIED="1583063864726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/titanic" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$Restore.coverage" NAME="Restore Coverage Results" MODIFIED="1589428657815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1583418375238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/titanic" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$a.coverage" NAME="a Coverage Results" MODIFIED="1586689029472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaggle/HousePrices" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$image_input2.coverage" NAME="image_input2 Coverage Results" MODIFIED="1572251719826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$feature_selection_demo.coverage" NAME="feature_selection_demo Coverage Results" MODIFIED="1582988689165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/titanic" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$test.coverage" NAME="test Coverage Results" MODIFIED="1592045008757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tensorflow_test$Restore__1_.coverage" NAME="Restore (1) Coverage Results" MODIFIED="1579763372375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OMR2" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="3969" column="22" lean-forward="true" selection-start-line="3969" selection-start-column="22" selection-end-line="3969" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/titanic/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR4/MyCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="346" column="33" selection-start-line="346" selection-start-column="24" selection-end-line="346" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/site-packages/pandas/_config/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR2/test.py" />
+    <entry file="file://$PROJECT_DIR$/kaggle/数据清洗8要点.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/HousePrices/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/HousePrices/test.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/HousePrices/sample_submission.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/HousePrices/data_description.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/HousePrices/cc.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="3715" column="17" selection-start-line="3715" selection-start-column="17" selection-end-line="3715" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR2/77.txt" />
+    <entry file="file://$PROJECT_DIR$/OMR2/33.txt" />
+    <entry file="file://$PROJECT_DIR$/OMR2/55.txt" />
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1637" column="18" selection-start-line="1637" selection-start-column="18" selection-end-line="1637" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py" />
+    <entry file="file://$PROJECT_DIR$/pd.py" />
+    <entry file="file://$PROJECT_DIR$/number_recognize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="63" column="64" selection-start-line="62" selection-start-column="9" selection-end-line="63" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/titanic/feature_selection_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#299#876#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/titanic/b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="102" column="44" lean-forward="true" selection-start-line="102" selection-start-column="44" selection-end-line="102" selection-end-column="44" />
+          <folding>
+            <element signature="e#89#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/titanic/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1747">
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="2791" column="4" selection-start-line="2791" selection-start-column="4" selection-end-line="2791" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/2CNN33.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45684">
+          <caret line="1692" column="29" selection-start-line="1692" selection-start-column="29" selection-end-line="1692" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/loss.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/2CNN55.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="1157" column="57" lean-forward="true" selection-start-line="1157" selection-start-column="48" selection-end-line="1157" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/2L357.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/2CNN77.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1127" column="39" lean-forward="true" selection-start-line="1127" selection-start-column="30" selection-end-line="1127" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/3CNN77.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="1169" column="45" lean-forward="true" selection-start-line="1169" selection-start-column="36" selection-end-line="1169" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/2CNN1111.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="1690" selection-start-line="1690" selection-end-line="1691" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/3CNN33.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="1767" column="4" selection-start-line="1767" selection-end-line="1768" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR3/MyCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/all.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR2_1_nopool/MyCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="164" column="37" lean-forward="true" selection-start-line="164" selection-start-column="37" selection-end-line="164" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/2L_77_noPool.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="1430" column="55" lean-forward="true" selection-start-line="1430" selection-start-column="55" selection-end-line="1430" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/HousePrices/demo.py" />
+    <entry file="file://$PROJECT_DIR$/OMR2/original_CNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="142" column="12" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/site-packages/sklearn/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="391" lean-forward="true" selection-start-line="391" selection-end-line="391" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/envs/tensorflow_test/Lib/site-packages/skimage/transform/_warps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataVisual/visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR2/Restore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2997">
+          <caret line="111" column="57" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR2/MyGUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/nlp_1th/product_descriptions.csv">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/HousePrices/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1753">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#33#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lambda_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-333" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OMR2/MyCNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle/nlp_1th/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

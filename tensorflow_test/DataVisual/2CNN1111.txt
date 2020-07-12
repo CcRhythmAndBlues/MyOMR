@@ -1,0 +1,1691 @@
+Epoch: 0001 cost= 22520336.000000000 Training accuracy 0.10714
+Epoch: 0001 cost= 19652556.000000000 Training accuracy 0.14286
+Epoch: 0001 cost= 19690176.000000000 Training accuracy 0.21429
+Epoch: 0001 cost= 21013210.000000000 Training accuracy 0.23810
+Epoch: 0002 cost= 22740218.000000000 Training accuracy 0.14286
+Epoch: 0002 cost= 22076118.000000000 Training accuracy 0.10714
+6 : 5
+1 : 0
+2 : 5
+1 : 6
+2 : 0
+2 : 0
+3 : 5
+4 : 3
+4 : 3
+6 : 3
+0 : 3
+4 : 6
+0 : 3
+1 : 5
+3 : 0
+6 : 3
+3 : 5
+Testing Accuracy: 0.23809524
+Epoch: 0002 cost= 13982061.000000000 Training accuracy 0.32143
+Epoch: 0002 cost= 12104574.000000000 Training accuracy 0.17857
+Epoch: 0002 cost= 15313701.000000000 Training accuracy 0.14286
+Epoch: 0003 cost= 13072752.000000000 Training accuracy 0.17857
+Epoch: 0003 cost= 11882282.000000000 Training accuracy 0.14286
+Epoch: 0003 cost= 13207097.000000000 Training accuracy 0.21429
+Epoch: 0003 cost= 13057417.000000000 Training accuracy 0.21429
+Epoch: 0003 cost= 10041998.000000000 Training accuracy 0.14286
+Epoch: 0004 cost= 8977880.000000000 Training accuracy 0.14286
+Epoch: 0004 cost= 6123919.500000000 Training accuracy 0.32143
+Epoch: 0004 cost= 9103880.000000000 Training accuracy 0.25000
+Epoch: 0004 cost= 7949153.000000000 Training accuracy 0.21429
+Epoch: 0004 cost= 6719149.500000000 Training accuracy 0.33333
+Epoch: 0005 cost= 4055196.500000000 Training accuracy 0.57143
+Epoch: 0005 cost= 6308187.500000000 Training accuracy 0.32143
+Epoch: 0005 cost= 9051627.000000000 Training accuracy 0.21429
+Epoch: 0005 cost= 3763182.750000000 Training accuracy 0.53571
+Epoch: 0005 cost= 4816975.500000000 Training accuracy 0.23810
+Epoch: 0006 cost= 5427964.500000000 Training accuracy 0.35714
+Epoch: 0006 cost= 4710833.500000000 Training accuracy 0.42857
+Epoch: 0006 cost= 4674653.000000000 Training accuracy 0.25000
+Epoch: 0006 cost= 4558202.500000000 Training accuracy 0.28571
+Epoch: 0006 cost= 3049608.750000000 Training accuracy 0.38095
+Epoch: 0007 cost= 3967627.750000000 Training accuracy 0.35714
+Epoch: 0007 cost= 4808231.000000000 Training accuracy 0.28571
+Epoch: 0007 cost= 4145167.250000000 Training accuracy 0.35714
+Epoch: 0007 cost= 2192335.500000000 Training accuracy 0.39286
+Epoch: 0007 cost= 3517524.500000000 Training accuracy 0.23810
+Epoch: 0008 cost= 3132465.250000000 Training accuracy 0.42857
+Epoch: 0008 cost= 2109259.500000000 Training accuracy 0.53571
+Epoch: 0008 cost= 4414537.500000000 Training accuracy 0.32143
+Epoch: 0008 cost= 1797469.000000000 Training accuracy 0.53571
+Epoch: 0008 cost= 2831726.750000000 Training accuracy 0.47619
+Epoch: 0009 cost= 1921825.125000000 Training accuracy 0.53571
+Epoch: 0009 cost= 2177847.250000000 Training accuracy 0.57143
+Epoch: 0009 cost= 2750122.750000000 Training accuracy 0.35714
+Epoch: 0009 cost= 2145292.750000000 Training accuracy 0.50000
+Epoch: 0009 cost= 3111398.250000000 Training accuracy 0.33333
+Epoch: 0010 cost= 2228058.750000000 Training accuracy 0.57143
+Epoch: 0010 cost= 2566456.000000000 Training accuracy 0.50000
+Epoch: 0010 cost= 1925659.125000000 Training accuracy 0.46429
+Epoch: 0010 cost= 1310213.750000000 Training accuracy 0.67857
+Epoch: 0010 cost= 1244929.500000000 Training accuracy 0.61905
+Epoch: 0011 cost= 2075085.375000000 Training accuracy 0.50000
+Epoch: 0011 cost= 2171005.250000000 Training accuracy 0.53571
+Epoch: 0011 cost= 1611303.625000000 Training accuracy 0.53571
+Epoch: 0011 cost= 1542239.750000000 Training accuracy 0.67857
+Epoch: 0011 cost= 1382370.375000000 Training accuracy 0.52381
+Epoch: 0012 cost= 1257481.375000000 Training accuracy 0.67857
+Epoch: 0012 cost= 1966733.000000000 Training accuracy 0.60714
+6 : 5
+5 : 4
+2 : 5
+3 : 5
+6 : 5
+0 : 6
+3 : 4
+6 : 4
+3 : 5
+5 : 0
+Testing Accuracy: 0.5714286
+Epoch: 0012 cost= 1797605.375000000 Training accuracy 0.50000
+Epoch: 0012 cost= 378717.968750000 Training accuracy 0.85714
+Epoch: 0012 cost= 1277033.375000000 Training accuracy 0.66667
+Epoch: 0013 cost= 1152314.750000000 Training accuracy 0.50000
+Epoch: 0013 cost= 1245308.250000000 Training accuracy 0.67857
+Epoch: 0013 cost= 1399227.750000000 Training accuracy 0.64286
+Epoch: 0013 cost= 2058805.875000000 Training accuracy 0.57143
+Epoch: 0013 cost= 1433041.125000000 Training accuracy 0.71429
+Epoch: 0014 cost= 1679028.000000000 Training accuracy 0.57143
+Epoch: 0014 cost= 1285853.750000000 Training accuracy 0.75000
+Epoch: 0014 cost= 1067390.625000000 Training accuracy 0.78571
+Epoch: 0014 cost= 797187.625000000 Training accuracy 0.71429
+Epoch: 0014 cost= 2366160.500000000 Training accuracy 0.66667
+Epoch: 0015 cost= 961286.312500000 Training accuracy 0.57143
+Epoch: 0015 cost= 1337321.750000000 Training accuracy 0.57143
+Epoch: 0015 cost= 1325375.000000000 Training accuracy 0.71429
+Epoch: 0015 cost= 1346172.375000000 Training accuracy 0.60714
+Epoch: 0015 cost= 1345235.000000000 Training accuracy 0.61905
+Epoch: 0016 cost= 1462227.000000000 Training accuracy 0.57143
+Epoch: 0016 cost= 1014277.187500000 Training accuracy 0.64286
+Epoch: 0016 cost= 758046.062500000 Training accuracy 0.71429
+Epoch: 0016 cost= 1247734.000000000 Training accuracy 0.57143
+Epoch: 0016 cost= 1360366.625000000 Training accuracy 0.42857
+Epoch: 0017 cost= 783275.687500000 Training accuracy 0.67857
+Epoch: 0017 cost= 794198.812500000 Training accuracy 0.60714
+Epoch: 0017 cost= 1617313.625000000 Training accuracy 0.60714
+Epoch: 0017 cost= 672863.500000000 Training accuracy 0.64286
+Epoch: 0017 cost= 1140835.500000000 Training accuracy 0.61905
+Epoch: 0018 cost= 468572.000000000 Training accuracy 0.78571
+Epoch: 0018 cost= 897501.937500000 Training accuracy 0.71429
+Epoch: 0018 cost= 855085.812500000 Training accuracy 0.60714
+Epoch: 0018 cost= 305474.718750000 Training accuracy 0.75000
+Epoch: 0018 cost= 1331547.750000000 Training accuracy 0.66667
+Epoch: 0019 cost= 869515.125000000 Training accuracy 0.71429
+Epoch: 0019 cost= 335941.562500000 Training accuracy 0.85714
+Epoch: 0019 cost= 1319171.125000000 Training accuracy 0.64286
+Epoch: 0019 cost= 683232.437500000 Training accuracy 0.75000
+Epoch: 0019 cost= 630097.875000000 Training accuracy 0.80952
+Epoch: 0020 cost= 778822.687500000 Training accuracy 0.67857
+Epoch: 0020 cost= 883531.312500000 Training accuracy 0.71429
+Epoch: 0020 cost= 384476.406250000 Training accuracy 0.82143
+Epoch: 0020 cost= 964269.937500000 Training accuracy 0.71429
+Epoch: 0020 cost= 541504.687500000 Training accuracy 0.71429
+Epoch: 0021 cost= 155720.281250000 Training accuracy 0.85714
+Epoch: 0021 cost= 969065.062500000 Training accuracy 0.71429
+Epoch: 0021 cost= 551548.187500000 Training accuracy 0.67857
+Epoch: 0021 cost= 605089.625000000 Training accuracy 0.67857
+Epoch: 0021 cost= 1163860.000000000 Training accuracy 0.61905
+Epoch: 0022 cost= 808681.125000000 Training accuracy 0.67857
+Epoch: 0022 cost= 1155359.000000000 Training accuracy 0.57143
+6 : 0
+5 : 4
+0 : 1
+2 : 5
+3 : 5
+4 : 5
+6 : 5
+3 : 2
+Testing Accuracy: 0.61904764
+Epoch: 0022 cost= 390404.656250000 Training accuracy 0.75000
+Epoch: 0022 cost= 329145.937500000 Training accuracy 0.82143
+Epoch: 0022 cost= 407244.656250000 Training accuracy 0.71429
+Epoch: 0023 cost= 572537.687500000 Training accuracy 0.67857
+Epoch: 0023 cost= 632412.000000000 Training accuracy 0.75000
+Epoch: 0023 cost= 1033673.500000000 Training accuracy 0.67857
+Epoch: 0023 cost= 207513.171875000 Training accuracy 0.85714
+Epoch: 0023 cost= 652816.937500000 Training accuracy 0.66667
+Epoch: 0024 cost= 462421.437500000 Training accuracy 0.75000
+Epoch: 0024 cost= 431345.343750000 Training accuracy 0.67857
+Epoch: 0024 cost= 477835.218750000 Training accuracy 0.75000
+Epoch: 0024 cost= 579303.937500000 Training accuracy 0.75000
+Epoch: 0024 cost= 642550.875000000 Training accuracy 0.61905
+Epoch: 0025 cost= 372646.593750000 Training accuracy 0.82143
+Epoch: 0025 cost= 303412.531250000 Training accuracy 0.85714
+Epoch: 0025 cost= 938875.125000000 Training accuracy 0.64286
+Epoch: 0025 cost= 180617.671875000 Training accuracy 0.85714
+Epoch: 0025 cost= 264189.062500000 Training accuracy 0.85714
+Epoch: 0026 cost= 208844.859375000 Training accuracy 0.82143
+Epoch: 0026 cost= 347764.906250000 Training accuracy 0.75000
+Epoch: 0026 cost= 460496.000000000 Training accuracy 0.67857
+Epoch: 0026 cost= 315562.000000000 Training accuracy 0.82143
+Epoch: 0026 cost= 577622.875000000 Training accuracy 0.66667
+Epoch: 0027 cost= 331969.531250000 Training accuracy 0.71429
+Epoch: 0027 cost= 217059.156250000 Training accuracy 0.89286
+Epoch: 0027 cost= 329793.687500000 Training accuracy 0.78571
+Epoch: 0027 cost= 573249.562500000 Training accuracy 0.82143
+Epoch: 0027 cost= 240259.375000000 Training accuracy 0.80952
+Epoch: 0028 cost= 627090.875000000 Training accuracy 0.67857
+Epoch: 0028 cost= 952702.187500000 Training accuracy 0.60714
+Epoch: 0028 cost= 380367.468750000 Training accuracy 0.71429
+Epoch: 0028 cost= 389331.468750000 Training accuracy 0.75000
+Epoch: 0028 cost= 154734.343750000 Training accuracy 0.80952
+Epoch: 0029 cost= 166687.468750000 Training accuracy 0.82143
+Epoch: 0029 cost= 302088.093750000 Training accuracy 0.82143
+Epoch: 0029 cost= 365016.312500000 Training accuracy 0.78571
+Epoch: 0029 cost= 644343.937500000 Training accuracy 0.64286
+Epoch: 0029 cost= 121537.796875000 Training accuracy 0.85714
+Epoch: 0030 cost= 252870.875000000 Training accuracy 0.85714
+Epoch: 0030 cost= 104243.164062500 Training accuracy 0.75000
+Epoch: 0030 cost= 235402.609375000 Training accuracy 0.75000
+Epoch: 0030 cost= 125947.546875000 Training accuracy 0.78571
+Epoch: 0030 cost= 287772.718750000 Training accuracy 0.85714
+Epoch: 0031 cost= 272334.468750000 Training accuracy 0.75000
+Epoch: 0031 cost= 376767.593750000 Training accuracy 0.85714
+Epoch: 0031 cost= 113286.109375000 Training accuracy 0.92857
+Epoch: 0031 cost= 160554.421875000 Training accuracy 0.82143
+Epoch: 0031 cost= 293518.437500000 Training accuracy 0.76190
+Epoch: 0032 cost= 339668.218750000 Training accuracy 0.85714
+Epoch: 0032 cost= 69981.195312500 Training accuracy 0.92857
+5 : 4
+5 : 4
+1 : 3
+2 : 3
+2 : 6
+5 : 6
+Testing Accuracy: 0.6666667
+Epoch: 0032 cost= 380867.906250000 Training accuracy 0.78571
+Epoch: 0032 cost= 742423.000000000 Training accuracy 0.78571
+Epoch: 0032 cost= 504051.250000000 Training accuracy 0.76190
+Epoch: 0033 cost= 167065.859375000 Training accuracy 0.92857
+Epoch: 0033 cost= 175807.671875000 Training accuracy 0.75000
+Epoch: 0033 cost= 138317.406250000 Training accuracy 0.85714
+Epoch: 0033 cost= 175717.421875000 Training accuracy 0.89286
+Epoch: 0033 cost= 100269.937500000 Training accuracy 0.76190
+Epoch: 0034 cost= 102997.015625000 Training accuracy 0.89286
+Epoch: 0034 cost= 254690.281250000 Training accuracy 0.82143
+Epoch: 0034 cost= 380163.718750000 Training accuracy 0.64286
+Epoch: 0034 cost= 205733.109375000 Training accuracy 0.82143
+Epoch: 0034 cost= 203048.968750000 Training accuracy 0.80952
+Epoch: 0035 cost= 491855.437500000 Training accuracy 0.75000
+Epoch: 0035 cost= 513321.781250000 Training accuracy 0.67857
+Epoch: 0035 cost= 329489.437500000 Training accuracy 0.71429
+Epoch: 0035 cost= 90631.664062500 Training accuracy 0.92857
+Epoch: 0035 cost= 72714.835937500 Training accuracy 0.90476
+Epoch: 0036 cost= 14710.696289062 Training accuracy 0.92857
+Epoch: 0036 cost= 295558.937500000 Training accuracy 0.82143
+Epoch: 0036 cost= 131027.445312500 Training accuracy 0.82143
+Epoch: 0036 cost= 174846.734375000 Training accuracy 0.92857
+Epoch: 0036 cost= 303574.343750000 Training accuracy 0.66667
+Epoch: 0037 cost= 136772.046875000 Training accuracy 0.89286
+Epoch: 0037 cost= 111642.664062500 Training accuracy 0.92857
+Epoch: 0037 cost= 42196.843750000 Training accuracy 0.92857
+Epoch: 0037 cost= 102006.484375000 Training accuracy 0.85714
+Epoch: 0037 cost= 106066.093750000 Training accuracy 0.90476
+Epoch: 0038 cost= 261350.000000000 Training accuracy 0.82143
+Epoch: 0038 cost= 58721.601562500 Training accuracy 0.92857
+Epoch: 0038 cost= 95155.539062500 Training accuracy 0.96429
+Epoch: 0038 cost= 69886.132812500 Training accuracy 0.96429
+Epoch: 0038 cost= 80792.937500000 Training accuracy 0.90476
+Epoch: 0039 cost= 246015.468750000 Training accuracy 0.82143
+Epoch: 0039 cost= 47126.125000000 Training accuracy 0.96429
+Epoch: 0039 cost= 132664.890625000 Training accuracy 0.89286
+Epoch: 0039 cost= 162112.125000000 Training accuracy 0.82143
+Epoch: 0039 cost= 104111.500000000 Training accuracy 0.90476
+Epoch: 0040 cost= 119385.203125000 Training accuracy 0.85714
+Epoch: 0040 cost= 2915.696533203 Training accuracy 0.96429
+Epoch: 0040 cost= 47200.625000000 Training accuracy 0.89286
+Epoch: 0040 cost= 41802.054687500 Training accuracy 0.96429
+Epoch: 0040 cost= 110078.960937500 Training accuracy 0.90476
+Epoch: 0041 cost= 21688.093750000 Training accuracy 0.92857
+Epoch: 0041 cost= 101470.601562500 Training accuracy 0.85714
+Epoch: 0041 cost= 128607.632812500 Training accuracy 0.92857
+Epoch: 0041 cost= 156102.203125000 Training accuracy 0.82143
+Epoch: 0041 cost= 443316.750000000 Training accuracy 0.76190
+Epoch: 0042 cost= 244132.468750000 Training accuracy 0.82143
+Epoch: 0042 cost= 84362.609375000 Training accuracy 0.85714
+2 : 3
+2 : 3
+2 : 3
+4 : 3
+0 : 3
+6 : 5
+3 : 5
+Testing Accuracy: 0.85714287
+Epoch: 0042 cost= 162648.890625000 Training accuracy 0.92857
+Epoch: 0042 cost= 31544.107421875 Training accuracy 0.92857
+Epoch: 0042 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0043 cost= 128250.179687500 Training accuracy 0.92857
+Epoch: 0043 cost= 58159.757812500 Training accuracy 0.85714
+Epoch: 0043 cost= 44312.621093750 Training accuracy 0.92857
+Epoch: 0043 cost= 190067.296875000 Training accuracy 0.78571
+Epoch: 0043 cost= 36539.578125000 Training accuracy 0.90476
+Epoch: 0044 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0044 cost= 267414.656250000 Training accuracy 0.75000
+Epoch: 0044 cost= 282574.093750000 Training accuracy 0.82143
+Epoch: 0044 cost= 317875.437500000 Training accuracy 0.75000
+Epoch: 0044 cost= 232459.187500000 Training accuracy 0.80952
+Epoch: 0045 cost= 5151.856933594 Training accuracy 0.96429
+Epoch: 0045 cost= 150132.125000000 Training accuracy 0.89286
+Epoch: 0045 cost= 64078.003906250 Training accuracy 0.92857
+Epoch: 0045 cost= 26445.080078125 Training accuracy 0.96429
+Epoch: 0045 cost= 119744.640625000 Training accuracy 0.80952
+Epoch: 0046 cost= 7070.687500000 Training accuracy 0.96429
+Epoch: 0046 cost= 456665.843750000 Training accuracy 0.75000
+Epoch: 0046 cost= 40231.070312500 Training accuracy 0.92857
+Epoch: 0046 cost= 330503.687500000 Training accuracy 0.85714
+Epoch: 0046 cost= 170231.812500000 Training accuracy 0.90476
+Epoch: 0047 cost= 166831.031250000 Training accuracy 0.85714
+Epoch: 0047 cost= 197022.093750000 Training accuracy 0.82143
+Epoch: 0047 cost= 73722.851562500 Training accuracy 0.92857
+Epoch: 0047 cost= 175329.203125000 Training accuracy 0.85714
+Epoch: 0047 cost= 230875.328125000 Training accuracy 0.80952
+Epoch: 0048 cost= 96616.554687500 Training accuracy 0.92857
+Epoch: 0048 cost= 171655.796875000 Training accuracy 0.85714
+Epoch: 0048 cost= 110186.601562500 Training accuracy 0.92857
+Epoch: 0048 cost= 3345.035644531 Training accuracy 0.96429
+Epoch: 0048 cost= 130920.382812500 Training accuracy 0.85714
+Epoch: 0049 cost= 61233.304687500 Training accuracy 0.92857
+Epoch: 0049 cost= 51920.335937500 Training accuracy 0.92857
+Epoch: 0049 cost= 24897.277343750 Training accuracy 0.96429
+Epoch: 0049 cost= 53346.660156250 Training accuracy 0.92857
+Epoch: 0049 cost= 31087.851562500 Training accuracy 0.95238
+Epoch: 0050 cost= 86987.945312500 Training accuracy 0.92857
+Epoch: 0050 cost= 58559.531250000 Training accuracy 0.96429
+Epoch: 0050 cost= 212606.046875000 Training accuracy 0.85714
+Epoch: 0050 cost= 261804.609375000 Training accuracy 0.75000
+Epoch: 0050 cost= 172846.031250000 Training accuracy 0.80952
+Epoch: 0051 cost= 36419.421875000 Training accuracy 0.92857
+Epoch: 0051 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0051 cost= 40250.632812500 Training accuracy 0.92857
+Epoch: 0051 cost= 68247.242187500 Training accuracy 0.92857
+Epoch: 0051 cost= 20424.380859375 Training accuracy 0.90476
+Epoch: 0052 cost= 123188.242187500 Training accuracy 0.92857
+Epoch: 0052 cost= 187981.046875000 Training accuracy 0.82143
+2 : 3
+3 : 5
+0 : 6
+3 : 5
+5 : 6
+Testing Accuracy: 0.7619048
+Epoch: 0052 cost= 130350.429687500 Training accuracy 0.89286
+Epoch: 0052 cost= 168563.031250000 Training accuracy 0.85714
+Epoch: 0052 cost= 66741.929687500 Training accuracy 0.85714
+Epoch: 0053 cost= 53470.535156250 Training accuracy 0.96429
+Epoch: 0053 cost= 97986.953125000 Training accuracy 0.92857
+Epoch: 0053 cost= 276660.781250000 Training accuracy 0.78571
+Epoch: 0053 cost= 171017.953125000 Training accuracy 0.85714
+Epoch: 0053 cost= 4431.595214844 Training accuracy 0.95238
+Epoch: 0054 cost= 77103.164062500 Training accuracy 0.89286
+Epoch: 0054 cost= 33866.554687500 Training accuracy 0.96429
+Epoch: 0054 cost= 161053.031250000 Training accuracy 0.92857
+Epoch: 0054 cost= 90664.609375000 Training accuracy 0.89286
+Epoch: 0054 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0055 cost= 162520.250000000 Training accuracy 0.89286
+Epoch: 0055 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0055 cost= 51474.449218750 Training accuracy 0.96429
+Epoch: 0055 cost= 47556.445312500 Training accuracy 0.96429
+Epoch: 0055 cost= 102569.703125000 Training accuracy 0.85714
+Epoch: 0056 cost= 38178.816406250 Training accuracy 0.85714
+Epoch: 0056 cost= 112033.914062500 Training accuracy 0.85714
+Epoch: 0056 cost= 74317.679687500 Training accuracy 0.92857
+Epoch: 0056 cost= 128843.710937500 Training accuracy 0.85714
+Epoch: 0056 cost= 18916.119140625 Training accuracy 0.95238
+Epoch: 0057 cost= 190772.656250000 Training accuracy 0.85714
+Epoch: 0057 cost= 71926.875000000 Training accuracy 0.92857
+Epoch: 0057 cost= 57687.539062500 Training accuracy 0.85714
+Epoch: 0057 cost= 58832.070312500 Training accuracy 0.85714
+Epoch: 0057 cost= 17648.619140625 Training accuracy 0.95238
+Epoch: 0058 cost= 61003.335937500 Training accuracy 0.92857
+Epoch: 0058 cost= 159.991073608 Training accuracy 0.96429
+Epoch: 0058 cost= 29035.865234375 Training accuracy 0.96429
+Epoch: 0058 cost= 180547.375000000 Training accuracy 0.92857
+Epoch: 0058 cost= 234542.281250000 Training accuracy 0.76190
+Epoch: 0059 cost= 133753.703125000 Training accuracy 0.82143
+Epoch: 0059 cost= 6077.919433594 Training accuracy 0.96429
+Epoch: 0059 cost= 45408.750000000 Training accuracy 0.92857
+Epoch: 0059 cost= 108653.929687500 Training accuracy 0.89286
+Epoch: 0059 cost= 51963.855468750 Training accuracy 0.95238
+Epoch: 0060 cost= 43806.835937500 Training accuracy 0.89286
+Epoch: 0060 cost= 47136.773437500 Training accuracy 0.82143
+Epoch: 0060 cost= 150672.890625000 Training accuracy 0.92857
+Epoch: 0060 cost= 22029.687500000 Training accuracy 0.96429
+Epoch: 0060 cost= 27635.828125000 Training accuracy 0.85714
+Epoch: 0061 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0061 cost= 9230.142578125 Training accuracy 0.96429
+Epoch: 0061 cost= 55537.257812500 Training accuracy 0.85714
+Epoch: 0061 cost= 8707.625000000 Training accuracy 0.92857
+Epoch: 0061 cost= 15585.786132812 Training accuracy 0.95238
+Epoch: 0062 cost= 126318.171875000 Training accuracy 0.85714
+Epoch: 0062 cost= 105934.554687500 Training accuracy 0.89286
+6 : 5
+2 : 3
+2 : 3
+4 : 5
+6 : 5
+3 : 2
+Testing Accuracy: 0.7619048
+Epoch: 0062 cost= 79038.203125000 Training accuracy 0.92857
+Epoch: 0062 cost= 161348.640625000 Training accuracy 0.89286
+Epoch: 0062 cost= 140301.203125000 Training accuracy 0.90476
+Epoch: 0063 cost= 89369.367187500 Training accuracy 0.89286
+Epoch: 0063 cost= 35232.503906250 Training accuracy 0.89286
+Epoch: 0063 cost= 18863.294921875 Training accuracy 0.96429
+Epoch: 0063 cost= 88522.734375000 Training accuracy 0.85714
+Epoch: 0063 cost= 111939.164062500 Training accuracy 0.85714
+Epoch: 0064 cost= 87425.242187500 Training accuracy 0.89286
+Epoch: 0064 cost= 18283.708984375 Training accuracy 0.96429
+Epoch: 0064 cost= 76871.476562500 Training accuracy 0.89286
+Epoch: 0064 cost= 183311.109375000 Training accuracy 0.89286
+Epoch: 0064 cost= 143044.468750000 Training accuracy 0.90476
+Epoch: 0065 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0065 cost= 67313.148437500 Training accuracy 0.92857
+Epoch: 0065 cost= 77263.875000000 Training accuracy 0.89286
+Epoch: 0065 cost= 77740.046875000 Training accuracy 0.85714
+Epoch: 0065 cost= 104893.906250000 Training accuracy 0.90476
+Epoch: 0066 cost= 83067.804687500 Training accuracy 0.89286
+Epoch: 0066 cost= 129031.187500000 Training accuracy 0.85714
+Epoch: 0066 cost= 8113.839355469 Training accuracy 0.96429
+Epoch: 0066 cost= 94477.125000000 Training accuracy 0.89286
+Epoch: 0066 cost= 62879.320312500 Training accuracy 0.85714
+Epoch: 0067 cost= 150365.843750000 Training accuracy 0.85714
+Epoch: 0067 cost= 41356.445312500 Training accuracy 0.96429
+Epoch: 0067 cost= 77455.828125000 Training accuracy 0.92857
+Epoch: 0067 cost= 96574.195312500 Training accuracy 0.89286
+Epoch: 0067 cost= 57739.707031250 Training accuracy 0.85714
+Epoch: 0068 cost= 2630.928466797 Training accuracy 0.96429
+Epoch: 0068 cost= 41389.003906250 Training accuracy 0.92857
+Epoch: 0068 cost= 33159.792968750 Training accuracy 0.96429
+Epoch: 0068 cost= 119667.687500000 Training accuracy 0.85714
+Epoch: 0068 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0069 cost= 15382.428710938 Training accuracy 0.96429
+Epoch: 0069 cost= 12185.375000000 Training accuracy 0.92857
+Epoch: 0069 cost= 23879.312500000 Training accuracy 0.96429
+Epoch: 0069 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0069 cost= 20104.119140625 Training accuracy 0.95238
+Epoch: 0070 cost= 105165.921875000 Training accuracy 0.92857
+Epoch: 0070 cost= 18660.759765625 Training accuracy 0.96429
+Epoch: 0070 cost= 2652.660644531 Training accuracy 0.96429
+Epoch: 0070 cost= 16195.616210938 Training accuracy 0.96429
+Epoch: 0070 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0071 cost= 101301.375000000 Training accuracy 0.89286
+Epoch: 0071 cost= 19081.910156250 Training accuracy 0.96429
+Epoch: 0071 cost= 27000.142578125 Training accuracy 0.92857
+Epoch: 0071 cost= 75873.140625000 Training accuracy 0.96429
+Epoch: 0071 cost= 25290.404296875 Training accuracy 0.95238
+Epoch: 0072 cost= 30102.347656250 Training accuracy 0.96429
+Epoch: 0072 cost= 73250.390625000 Training accuracy 0.92857
+2 : 3
+2 : 3
+6 : 5
+3 : 4
+Testing Accuracy: 0.71428573
+Epoch: 0072 cost= 17818.896484375 Training accuracy 0.96429
+Epoch: 0072 cost= 34798.445312500 Training accuracy 0.96429
+Epoch: 0072 cost= 106054.117187500 Training accuracy 0.95238
+Epoch: 0073 cost= 19475.955078125 Training accuracy 0.92857
+Epoch: 0073 cost= 43527.222656250 Training accuracy 0.96429
+Epoch: 0073 cost= 60064.542968750 Training accuracy 0.96429
+Epoch: 0073 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0073 cost= 27058.613281250 Training accuracy 0.90476
+Epoch: 0074 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0074 cost= 27824.580078125 Training accuracy 0.92857
+Epoch: 0074 cost= 42303.054687500 Training accuracy 0.96429
+Epoch: 0074 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0074 cost= 8979.952148438 Training accuracy 0.95238
+Epoch: 0075 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0075 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0075 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0075 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0075 cost= 10274.619140625 Training accuracy 0.95238
+Epoch: 0076 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0076 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0076 cost= 40619.855468750 Training accuracy 0.89286
+Epoch: 0076 cost= 156756.703125000 Training accuracy 0.85714
+Epoch: 0076 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0077 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0077 cost= 120171.335937500 Training accuracy 0.85714
+Epoch: 0077 cost= 35093.468750000 Training accuracy 0.92857
+Epoch: 0077 cost= 25208.589843750 Training accuracy 0.96429
+Epoch: 0077 cost= 107076.562500000 Training accuracy 0.90476
+Epoch: 0078 cost= 4370.276855469 Training accuracy 0.96429
+Epoch: 0078 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0078 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0078 cost= 31957.603515625 Training accuracy 0.92857
+Epoch: 0078 cost= 59260.191406250 Training accuracy 0.90476
+Epoch: 0079 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0079 cost= 39534.792968750 Training accuracy 0.96429
+Epoch: 0079 cost= 33362.964843750 Training accuracy 0.96429
+Epoch: 0079 cost= 88002.515625000 Training accuracy 0.89286
+Epoch: 0079 cost= 12377.595703125 Training accuracy 0.95238
+Epoch: 0080 cost= 28073.937500000 Training accuracy 0.96429
+Epoch: 0080 cost= 15605.935546875 Training accuracy 0.96429
+Epoch: 0080 cost= 9844.536132812 Training accuracy 0.96429
+Epoch: 0080 cost= 84745.875000000 Training accuracy 0.89286
+Epoch: 0080 cost= 54347.554687500 Training accuracy 0.90476
+Epoch: 0081 cost= 6539.776855469 Training accuracy 0.96429
+Epoch: 0081 cost= 40509.687500000 Training accuracy 0.96429
+Epoch: 0081 cost= 84567.804687500 Training accuracy 0.92857
+Epoch: 0081 cost= 22491.072265625 Training accuracy 0.96429
+Epoch: 0081 cost= 192879.953125000 Training accuracy 0.80952
+Epoch: 0082 cost= 22018.177734375 Training accuracy 0.96429
+Epoch: 0082 cost= 66065.164062500 Training accuracy 0.92857
+5 : 3
+2 : 3
+2 : 3
+4 : 3
+0 : 6
+5 : 6
+Testing Accuracy: 0.71428573
+Epoch: 0082 cost= 58253.089843750 Training accuracy 0.89286
+Epoch: 0082 cost= 63440.332031250 Training accuracy 0.89286
+Epoch: 0082 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0083 cost= 39160.402343750 Training accuracy 0.92857
+Epoch: 0083 cost= 145313.671875000 Training accuracy 0.89286
+Epoch: 0083 cost= 84155.390625000 Training accuracy 0.89286
+Epoch: 0083 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0083 cost= 44848.191406250 Training accuracy 0.90476
+Epoch: 0084 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0084 cost= 107907.632812500 Training accuracy 0.92857
+Epoch: 0084 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0084 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0084 cost= 39275.355468750 Training accuracy 0.90476
+Epoch: 0085 cost= 31242.812500000 Training accuracy 0.96429
+Epoch: 0085 cost= 87593.039062500 Training accuracy 0.92857
+Epoch: 0085 cost= 17272.080078125 Training accuracy 0.96429
+Epoch: 0085 cost= 115732.601562500 Training accuracy 0.75000
+Epoch: 0085 cost= 4060.345214844 Training accuracy 0.95238
+Epoch: 0086 cost= 78802.171875000 Training accuracy 0.92857
+Epoch: 0086 cost= 77339.578125000 Training accuracy 0.92857
+Epoch: 0086 cost= 20657.259765625 Training accuracy 0.96429
+Epoch: 0086 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0086 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0087 cost= 74.785713196 Training accuracy 0.96429
+Epoch: 0087 cost= 10012.705078125 Training accuracy 0.92857
+Epoch: 0087 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0087 cost= 81753.828125000 Training accuracy 0.96429
+Epoch: 0087 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0088 cost= 49991.000000000 Training accuracy 0.92857
+Epoch: 0088 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0088 cost= 21833.794921875 Training accuracy 0.96429
+Epoch: 0088 cost= 46288.476562500 Training accuracy 0.92857
+Epoch: 0088 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0089 cost= 19398.441406250 Training accuracy 0.96429
+Epoch: 0089 cost= 7420.419433594 Training accuracy 0.96429
+Epoch: 0089 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0089 cost= 10672.411132812 Training accuracy 0.96429
+Epoch: 0089 cost= 41307.406250000 Training accuracy 0.95238
+Epoch: 0090 cost= 205004.046875000 Training accuracy 0.89286
+Epoch: 0090 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0090 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0090 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0090 cost= 39399.660156250 Training accuracy 0.95238
+Epoch: 0091 cost= 13801.401367188 Training accuracy 0.96429
+Epoch: 0091 cost= 2632.361572266 Training accuracy 0.96429
+Epoch: 0091 cost= 52903.402343750 Training accuracy 0.92857
+Epoch: 0091 cost= 166847.171875000 Training accuracy 0.82143
+Epoch: 0091 cost= 55806.542968750 Training accuracy 0.90476
+Epoch: 0092 cost= 35081.871093750 Training accuracy 0.96429
+Epoch: 0092 cost= 76086.351562500 Training accuracy 0.92857
+6 : 5
+2 : 3
+3 : 4
+6 : 0
+5 : 0
+Testing Accuracy: 0.7619048
+Epoch: 0092 cost= 101031.929687500 Training accuracy 0.92857
+Epoch: 0092 cost= 22913.535156250 Training accuracy 0.96429
+Epoch: 0092 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0093 cost= 15799.334960938 Training accuracy 0.96429
+Epoch: 0093 cost= 87462.648437500 Training accuracy 0.92857
+Epoch: 0093 cost= 45212.820312500 Training accuracy 0.92857
+Epoch: 0093 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0093 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0094 cost= 29715.236328125 Training accuracy 0.96429
+Epoch: 0094 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0094 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0094 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0094 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0095 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0095 cost= 4779.785644531 Training accuracy 0.96429
+Epoch: 0095 cost= 31384.236328125 Training accuracy 0.96429
+Epoch: 0095 cost= 22577.357421875 Training accuracy 0.92857
+Epoch: 0095 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0096 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0096 cost= 50515.394531250 Training accuracy 0.96429
+Epoch: 0096 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0096 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0096 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0097 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0097 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0097 cost= 15954.642578125 Training accuracy 0.92857
+Epoch: 0097 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0097 cost= 5082.916503906 Training accuracy 0.95238
+Epoch: 0098 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0098 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0098 cost= 24502.240234375 Training accuracy 0.92857
+Epoch: 0098 cost= 37019.414062500 Training accuracy 0.96429
+Epoch: 0098 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0099 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0099 cost= 11463.838867188 Training accuracy 0.96429
+Epoch: 0099 cost= 31855.072265625 Training accuracy 0.96429
+Epoch: 0099 cost= 7601.143066406 Training accuracy 0.96429
+Epoch: 0099 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0100 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0100 cost= 29197.347656250 Training accuracy 0.96429
+Epoch: 0100 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0100 cost= 12805.732421875 Training accuracy 0.96429
+Epoch: 0100 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0101 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0101 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0101 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0101 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0101 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0102 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0102 cost= 0.000000000 Training accuracy 1.00000
+2 : 3
+2 : 3
+6 : 5
+3 : 4
+Testing Accuracy: 0.9047619
+Epoch: 0102 cost= 25561.513671875 Training accuracy 0.96429
+Epoch: 0102 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0102 cost= 26136.976562500 Training accuracy 0.90476
+Epoch: 0103 cost= 13980.937500000 Training accuracy 0.96429
+Epoch: 0103 cost= 52491.105468750 Training accuracy 0.92857
+Epoch: 0103 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0103 cost= 15182.098632812 Training accuracy 0.96429
+Epoch: 0103 cost= 7324.494140625 Training accuracy 0.95238
+Epoch: 0104 cost= 24620.718750000 Training accuracy 0.96429
+Epoch: 0104 cost= 50523.667968750 Training accuracy 0.89286
+Epoch: 0104 cost= 37867.968750000 Training accuracy 0.96429
+Epoch: 0104 cost= 48195.652343750 Training accuracy 0.92857
+Epoch: 0104 cost= 2430.166748047 Training accuracy 0.95238
+Epoch: 0105 cost= 37310.390625000 Training accuracy 0.92857
+Epoch: 0105 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0105 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0105 cost= 18146.361328125 Training accuracy 0.92857
+Epoch: 0105 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0106 cost= 52730.378906250 Training accuracy 0.92857
+Epoch: 0106 cost= 5945.491210938 Training accuracy 0.96429
+Epoch: 0106 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0106 cost= 22856.347656250 Training accuracy 0.92857
+Epoch: 0106 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0107 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0107 cost= 119034.460937500 Training accuracy 0.89286
+Epoch: 0107 cost= 90543.750000000 Training accuracy 0.89286
+Epoch: 0107 cost= 13343.187500000 Training accuracy 0.96429
+Epoch: 0107 cost= 91189.898437500 Training accuracy 0.90476
+Epoch: 0108 cost= 39109.261718750 Training accuracy 0.96429
+Epoch: 0108 cost= 37425.437500000 Training accuracy 0.92857
+Epoch: 0108 cost= 21521.722656250 Training accuracy 0.92857
+Epoch: 0108 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0108 cost= 165316.015625000 Training accuracy 0.80952
+Epoch: 0109 cost= 70457.585937500 Training accuracy 0.85714
+Epoch: 0109 cost= 141545.281250000 Training accuracy 0.92857
+Epoch: 0109 cost= 205916.640625000 Training accuracy 0.82143
+Epoch: 0109 cost= 10080.828125000 Training accuracy 0.96429
+Epoch: 0109 cost= 20161.535156250 Training accuracy 0.95238
+Epoch: 0110 cost= 29845.902343750 Training accuracy 0.85714
+Epoch: 0110 cost= 66655.500000000 Training accuracy 0.89286
+Epoch: 0110 cost= 74693.523437500 Training accuracy 0.89286
+Epoch: 0110 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0110 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0111 cost= 32202.660156250 Training accuracy 0.96429
+Epoch: 0111 cost= 17572.732421875 Training accuracy 0.96429
+Epoch: 0111 cost= 33054.464843750 Training accuracy 0.96429
+Epoch: 0111 cost= 94563.289062500 Training accuracy 0.92857
+Epoch: 0111 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0112 cost= 55150.105468750 Training accuracy 0.96429
+Epoch: 0112 cost= 32963.050781250 Training accuracy 0.89286
+2 : 3
+3 : 4
+0 : 6
+Testing Accuracy: 0.9047619
+Epoch: 0112 cost= 9383.982421875 Training accuracy 0.96429
+Epoch: 0112 cost= 32210.451171875 Training accuracy 0.96429
+Epoch: 0112 cost= 4442.268554688 Training accuracy 0.95238
+Epoch: 0113 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0113 cost= 65814.625000000 Training accuracy 0.89286
+Epoch: 0113 cost= 17497.447265625 Training accuracy 0.96429
+Epoch: 0113 cost= 47546.812500000 Training accuracy 0.96429
+Epoch: 0113 cost= 77801.585937500 Training accuracy 0.90476
+Epoch: 0114 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0114 cost= 60146.976562500 Training accuracy 0.92857
+Epoch: 0114 cost= 77264.960937500 Training accuracy 0.92857
+Epoch: 0114 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0114 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0115 cost= 78334.195312500 Training accuracy 0.92857
+Epoch: 0115 cost= 10110.218750000 Training accuracy 0.96429
+Epoch: 0115 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0115 cost= 12290.786132812 Training accuracy 0.96429
+^D
+Epoch: 0115 cost= 125126.476562500 Training accuracy 0.90476
+Epoch: 0116 cost= 112405.148437500 Training accuracy 0.92857
+Epoch: 0116 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0116 cost= 79494.585937500 Training accuracy 0.89286
+Epoch: 0116 cost= 57474.519531250 Training accuracy 0.92857
+Epoch: 0116 cost= 32827.035156250 Training accuracy 0.90476
+Epoch: 0117 cost= 60726.519531250 Training accuracy 0.96429
+Epoch: 0117 cost= 61366.656250000 Training accuracy 0.92857
+Epoch: 0117 cost= 54313.144531250 Training accuracy 0.96429
+Epoch: 0117 cost= 32641.271484375 Training accuracy 0.96429
+Epoch: 0117 cost= 1022.928588867 Training accuracy 0.95238
+Epoch: 0118 cost= 58921.820312500 Training accuracy 0.92857
+Epoch: 0118 cost= 34269.187500000 Training accuracy 0.96429
+Epoch: 0118 cost= 62585.125000000 Training accuracy 0.92857
+Epoch: 0118 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0118 cost= 19526.132812500 Training accuracy 0.95238
+Epoch: 0119 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0119 cost= 25426.027343750 Training accuracy 0.96429
+Epoch: 0119 cost= 1420.785766602 Training accuracy 0.96429
+Epoch: 0119 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0119 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0120 cost= 9154.156250000 Training accuracy 0.96429
+Epoch: 0120 cost= 3844.709716797 Training accuracy 0.96429
+Epoch: 0120 cost= 18514.857421875 Training accuracy 0.92857
+Epoch: 0120 cost= 29734.718750000 Training accuracy 0.96429
+Epoch: 0120 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0121 cost= 58685.425781250 Training accuracy 0.96429
+Epoch: 0121 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0121 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0121 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0121 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0122 cost= 27253.142578125 Training accuracy 0.96429
+Epoch: 0122 cost= 0.000000000 Training accuracy 1.00000
+6 : 5
+2 : 1
+2 : 3
+3 : 6
+6 : 5
+3 : 4
+Testing Accuracy: 0.7619048
+Epoch: 0122 cost= 52533.824218750 Training accuracy 0.89286
+Epoch: 0122 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0122 cost= 6651.981933594 Training accuracy 0.95238
+Epoch: 0123 cost= 108568.851562500 Training accuracy 0.92857
+Epoch: 0123 cost= 23327.447265625 Training accuracy 0.96429
+Epoch: 0123 cost= 74820.968750000 Training accuracy 0.89286
+Epoch: 0123 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0123 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0124 cost= 11667.419921875 Training accuracy 0.92857
+Epoch: 0124 cost= 109733.312500000 Training accuracy 0.85714
+Epoch: 0124 cost= 38579.226562500 Training accuracy 0.92857
+Epoch: 0124 cost= 20716.451171875 Training accuracy 0.92857
+Epoch: 0124 cost= 25475.822265625 Training accuracy 0.95238
+Epoch: 0125 cost= 4838.393066406 Training accuracy 0.96429
+Epoch: 0125 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0125 cost= 92803.570312500 Training accuracy 0.89286
+Epoch: 0125 cost= 88133.890625000 Training accuracy 0.89286
+Epoch: 0125 cost= 73462.921875000 Training accuracy 0.90476
+Epoch: 0126 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0126 cost= 105479.539062500 Training accuracy 0.85714
+Epoch: 0126 cost= 29474.746093750 Training accuracy 0.96429
+Epoch: 0126 cost= 11075.625000000 Training accuracy 0.96429
+Epoch: 0126 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0127 cost= 9001.073242188 Training accuracy 0.96429
+Epoch: 0127 cost= 40636.242187500 Training accuracy 0.92857
+Epoch: 0127 cost= 20236.160156250 Training accuracy 0.96429
+Epoch: 0127 cost= 87103.421875000 Training accuracy 0.89286
+Epoch: 0127 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0128 cost= 38890.878906250 Training accuracy 0.96429
+Epoch: 0128 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0128 cost= 38074.039062500 Training accuracy 0.92857
+Epoch: 0128 cost= 149417.218750000 Training accuracy 0.85714
+Epoch: 0128 cost= 95970.765625000 Training accuracy 0.80952
+Epoch: 0129 cost= 88615.250000000 Training accuracy 0.96429
+Epoch: 0129 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0129 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0129 cost= 21653.062500000 Training accuracy 0.96429
+Epoch: 0129 cost= 66802.117187500 Training accuracy 0.95238
+Epoch: 0130 cost= 51074.027343750 Training accuracy 0.89286
+Epoch: 0130 cost= 6458.214355469 Training accuracy 0.92857
+Epoch: 0130 cost= 83513.351562500 Training accuracy 0.85714
+Epoch: 0130 cost= 58941.503906250 Training accuracy 0.89286
+Epoch: 0130 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0131 cost= 66117.890625000 Training accuracy 0.92857
+Epoch: 0131 cost= 13368.848632812 Training accuracy 0.96429
+Epoch: 0131 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0131 cost= 104610.609375000 Training accuracy 0.89286
+Epoch: 0131 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0132 cost= 143157.250000000 Training accuracy 0.89286
+Epoch: 0132 cost= 17422.990234375 Training accuracy 0.96429
+2 : 3
+5 : 2
+Testing Accuracy: 0.9047619
+Epoch: 0132 cost= 19411.847656250 Training accuracy 0.96429
+Epoch: 0132 cost= 39296.792968750 Training accuracy 0.96429
+Epoch: 0132 cost= 38403.894531250 Training accuracy 0.95238
+Epoch: 0133 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0133 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0133 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0133 cost= 117631.585937500 Training accuracy 0.92857
+Epoch: 0133 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0134 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0134 cost= 107997.703125000 Training accuracy 0.89286
+Epoch: 0134 cost= 66405.992187500 Training accuracy 0.89286
+Epoch: 0134 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0134 cost= 28470.308593750 Training accuracy 0.95238
+Epoch: 0135 cost= 66324.523437500 Training accuracy 0.92857
+Epoch: 0135 cost= 15436.223632812 Training accuracy 0.96429
+Epoch: 0135 cost= 28696.562500000 Training accuracy 0.92857
+Epoch: 0135 cost= 63710.804687500 Training accuracy 0.92857
+Epoch: 0135 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0136 cost= 26061.240234375 Training accuracy 0.96429
+Epoch: 0136 cost= 35427.933593750 Training accuracy 0.96429
+Epoch: 0136 cost= 113013.296875000 Training accuracy 0.85714
+Epoch: 0136 cost= 34331.839843750 Training accuracy 0.92857
+Epoch: 0136 cost= 75393.164062500 Training accuracy 0.95238
+Epoch: 0137 cost= 62765.464843750 Training accuracy 0.92857
+Epoch: 0137 cost= 53870.136718750 Training accuracy 0.96429
+Epoch: 0137 cost= 31468.535156250 Training accuracy 0.96429
+Epoch: 0137 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0137 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0138 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0138 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0138 cost= 2978.276855469 Training accuracy 0.96429
+Epoch: 0138 cost= 15314.803710938 Training accuracy 0.92857
+Epoch: 0138 cost= 63840.433593750 Training accuracy 0.90476
+Epoch: 0139 cost= 31687.371093750 Training accuracy 0.92857
+Epoch: 0139 cost= 8636.937500000 Training accuracy 0.96429
+Epoch: 0139 cost= 56039.847656250 Training accuracy 0.96429
+Epoch: 0139 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0139 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0140 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0140 cost= 2563.365966797 Training accuracy 0.96429
+Epoch: 0140 cost= 22214.839843750 Training accuracy 0.96429
+Epoch: 0140 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0140 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0141 cost= 45716.402343750 Training accuracy 0.96429
+Epoch: 0141 cost= 5547.419433594 Training accuracy 0.96429
+Epoch: 0141 cost= 26862.884765625 Training accuracy 0.96429
+Epoch: 0141 cost= 5177.158691406 Training accuracy 0.92857
+Epoch: 0141 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0142 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0142 cost= 14418.053710938 Training accuracy 0.96429
+6 : 4
+5 : 4
+2 : 4
+3 : 4
+6 : 5
+3 : 4
+Testing Accuracy: 0.71428573
+Epoch: 0142 cost= 2361.419677734 Training accuracy 0.96429
+Epoch: 0142 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0142 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0143 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0143 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0143 cost= 31772.500000000 Training accuracy 0.96429
+Epoch: 0143 cost= 230549.921875000 Training accuracy 0.89286
+Epoch: 0143 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0144 cost= 34518.023437500 Training accuracy 0.96429
+Epoch: 0144 cost= 43094.789062500 Training accuracy 0.92857
+Epoch: 0144 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0144 cost= 24585.365234375 Training accuracy 0.92857
+Epoch: 0144 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0145 cost= 50914.722656250 Training accuracy 0.96429
+Epoch: 0145 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0145 cost= 2137.740966797 Training accuracy 0.96429
+Epoch: 0145 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0145 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0146 cost= 37644.804687500 Training accuracy 0.96429
+Epoch: 0146 cost= 16178.553710938 Training accuracy 0.96429
+Epoch: 0146 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0146 cost= 5315.625000000 Training accuracy 0.96429
+Epoch: 0146 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0147 cost= 92301.046875000 Training accuracy 0.92857
+Epoch: 0147 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0147 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0147 cost= 32499.509765625 Training accuracy 0.92857
+Epoch: 0147 cost= 1928.535766602 Training accuracy 0.95238
+Epoch: 0148 cost= 46262.179687500 Training accuracy 0.96429
+Epoch: 0148 cost= 47646.839843750 Training accuracy 0.92857
+Epoch: 0148 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0148 cost= 49349.882812500 Training accuracy 0.96429
+Epoch: 0148 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0149 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0149 cost= 19529.964843750 Training accuracy 0.96429
+Epoch: 0149 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0149 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0149 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0150 cost= 99246.554687500 Training accuracy 0.89286
+Epoch: 0150 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0150 cost= 22165.785156250 Training accuracy 0.92857
+Epoch: 0150 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0150 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0151 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0151 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0151 cost= 3072.263427734 Training accuracy 0.92857
+Epoch: 0151 cost= 77184.585937500 Training accuracy 0.96429
+Epoch: 0151 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0152 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0152 cost= 49264.800781250 Training accuracy 0.96429
+2 : 3
+2 : 3
+0 : 3
+Testing Accuracy: 0.8095238
+Epoch: 0152 cost= 410.866058350 Training accuracy 0.96429
+Epoch: 0152 cost= 26370.990234375 Training accuracy 0.92857
+Epoch: 0152 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0153 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0153 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0153 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0153 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0153 cost= 4657.428710938 Training accuracy 0.95238
+Epoch: 0154 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0154 cost= 41331.464843750 Training accuracy 0.92857
+Epoch: 0154 cost= 33048.671875000 Training accuracy 0.96429
+Epoch: 0154 cost= 118720.039062500 Training accuracy 0.85714
+Epoch: 0154 cost= 2590.976074219 Training accuracy 0.95238
+Epoch: 0155 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0155 cost= 105926.312500000 Training accuracy 0.89286
+Epoch: 0155 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0155 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0155 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0156 cost= 38388.957031250 Training accuracy 0.96429
+Epoch: 0156 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0156 cost= 13516.223632812 Training accuracy 0.96429
+Epoch: 0156 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0156 cost= 52334.011718750 Training accuracy 0.95238
+Epoch: 0157 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0157 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0157 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0157 cost= 57249.195312500 Training accuracy 0.89286
+Epoch: 0157 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0158 cost= 37438.929687500 Training accuracy 0.89286
+Epoch: 0158 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0158 cost= 49756.824218750 Training accuracy 0.82143
+Epoch: 0158 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0158 cost= 29302.511718750 Training accuracy 0.95238
+Epoch: 0159 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0159 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0159 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0159 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0159 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0160 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0160 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0160 cost= 11280.437500000 Training accuracy 0.96429
+Epoch: 0160 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0160 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0161 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0161 cost= 25395.000000000 Training accuracy 0.96429
+Epoch: 0161 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0161 cost= 40306.753906250 Training accuracy 0.96429
+Epoch: 0161 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0162 cost= 51167.519531250 Training accuracy 0.92857
+Epoch: 0162 cost= 0.000000000 Training accuracy 1.00000
+2 : 3
+0 : 6
+3 : 5
+6 : 5
+Testing Accuracy: 0.7619048
+Epoch: 0162 cost= 19059.982421875 Training accuracy 0.96429
+Epoch: 0162 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0162 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0163 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0163 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0163 cost= 19707.794921875 Training accuracy 0.92857
+Epoch: 0163 cost= 41033.429687500 Training accuracy 0.96429
+Epoch: 0163 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0164 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0164 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0164 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0164 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0164 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0165 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0165 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0165 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0165 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0165 cost= 23014.773437500 Training accuracy 0.95238
+Epoch: 0166 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0166 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0166 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0166 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0166 cost= 1511.059570312 Training accuracy 0.95238
+Epoch: 0167 cost= 4837.633789062 Training accuracy 0.96429
+Epoch: 0167 cost= 51839.839843750 Training accuracy 0.92857
+Epoch: 0167 cost= 24350.785156250 Training accuracy 0.96429
+Epoch: 0167 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0167 cost= 77106.789062500 Training accuracy 0.90476
+Epoch: 0168 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0168 cost= 20433.777343750 Training accuracy 0.96429
+Epoch: 0168 cost= 21175.197265625 Training accuracy 0.96429
+Epoch: 0168 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0168 cost= 27553.238281250 Training accuracy 0.95238
+Epoch: 0169 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0169 cost= 11950.044921875 Training accuracy 0.96429
+Epoch: 0169 cost= 41239.605468750 Training accuracy 0.96429
+Epoch: 0169 cost= 29083.625000000 Training accuracy 0.96429
+Epoch: 0169 cost= 16329.678710938 Training accuracy 0.95238
+Epoch: 0170 cost= 57866.289062500 Training accuracy 0.96429
+Epoch: 0170 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0170 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0170 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0170 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0171 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0171 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0171 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0171 cost= 11327.536132812 Training accuracy 0.96429
+Epoch: 0171 cost= 10088.321289062 Training accuracy 0.95238
+Epoch: 0172 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0172 cost= 0.000000000 Training accuracy 1.00000
+2 : 3
+2 : 3
+3 : 5
+Testing Accuracy: 0.8095238
+Epoch: 0172 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0172 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0172 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0173 cost= 33177.132812500 Training accuracy 0.96429
+Epoch: 0173 cost= 59042.000000000 Training accuracy 0.89286
+Epoch: 0173 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0173 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0173 cost= 37323.929687500 Training accuracy 0.95238
+Epoch: 0174 cost= 83093.585937500 Training accuracy 0.96429
+Epoch: 0174 cost= 38229.664062500 Training accuracy 0.92857
+Epoch: 0174 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0174 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0174 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0175 cost= 43632.707031250 Training accuracy 0.92857
+Epoch: 0175 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0175 cost= 40582.695312500 Training accuracy 0.92857
+Epoch: 0175 cost= 38904.300781250 Training accuracy 0.92857
+Epoch: 0175 cost= 27971.416015625 Training accuracy 0.95238
+Epoch: 0176 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0176 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0176 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0176 cost= 5690.866210938 Training accuracy 0.96429
+Epoch: 0176 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0177 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0177 cost= 11031.919921875 Training accuracy 0.96429
+Epoch: 0177 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0177 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0177 cost= 50624.976562500 Training accuracy 0.90476
+Epoch: 0178 cost= 12916.088867188 Training accuracy 0.96429
+Epoch: 0178 cost= 5968.375000000 Training accuracy 0.96429
+Epoch: 0178 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0178 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0178 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0179 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0179 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0179 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0179 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0179 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0180 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0180 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0180 cost= 10005.151367188 Training accuracy 0.96429
+Epoch: 0180 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0180 cost= 8313.845703125 Training accuracy 0.95238
+Epoch: 0181 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0181 cost= 1400.223266602 Training accuracy 0.96429
+Epoch: 0181 cost= 10846.437500000 Training accuracy 0.96429
+Epoch: 0181 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0181 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0182 cost= 42310.371093750 Training accuracy 0.96429
+Epoch: 0182 cost= 10695.017578125 Training accuracy 0.96429
+5 : 4
+2 : 3
+2 : 3
+0 : 6
+6 : 5
+3 : 4
+Testing Accuracy: 0.71428573
+Epoch: 0182 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0182 cost= 45229.917968750 Training accuracy 0.96429
+Epoch: 0182 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0183 cost= 30710.365234375 Training accuracy 0.89286
+Epoch: 0183 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0183 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0183 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0183 cost= 12071.654296875 Training accuracy 0.95238
+Epoch: 0184 cost= 28203.964843750 Training accuracy 0.96429
+Epoch: 0184 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0184 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0184 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0184 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0185 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0185 cost= 84355.679687500 Training accuracy 0.92857
+Epoch: 0185 cost= 5409.946289062 Training accuracy 0.96429
+Epoch: 0185 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0185 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0186 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0186 cost= 56516.808593750 Training accuracy 0.96429
+Epoch: 0186 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0186 cost= 104107.265625000 Training accuracy 0.96429
+Epoch: 0186 cost= 43757.011718750 Training accuracy 0.90476
+Epoch: 0187 cost= 1943.968750000 Training accuracy 0.96429
+Epoch: 0187 cost= 11557.723632812 Training accuracy 0.96429
+Epoch: 0187 cost= 51715.257812500 Training accuracy 0.96429
+Epoch: 0187 cost= 38474.304687500 Training accuracy 0.92857
+Epoch: 0187 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0188 cost= 10485.633789062 Training accuracy 0.96429
+Epoch: 0188 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0188 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0188 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0188 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0189 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0189 cost= 1914.616088867 Training accuracy 0.96429
+Epoch: 0189 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0189 cost= 118824.226562500 Training accuracy 0.89286
+Epoch: 0189 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0190 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0190 cost= 86778.929687500 Training accuracy 0.89286
+Epoch: 0190 cost= 120215.515625000 Training accuracy 0.92857
+Epoch: 0190 cost= 88868.859375000 Training accuracy 0.92857
+Epoch: 0190 cost= 107134.960937500 Training accuracy 0.90476
+Epoch: 0191 cost= 49722.898437500 Training accuracy 0.92857
+Epoch: 0191 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0191 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0191 cost= 49186.875000000 Training accuracy 0.96429
+Epoch: 0191 cost= 41160.925781250 Training accuracy 0.85714
+Epoch: 0192 cost= 155933.734375000 Training accuracy 0.92857
+Epoch: 0192 cost= 10053.973632812 Training accuracy 0.92857
+5 : 4
+2 : 3
+2 : 3
+2 : 3
+6 : 5
+5 : 6
+Testing Accuracy: 0.71428573
+Epoch: 0192 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0192 cost= 3532.540283203 Training accuracy 0.96429
+Epoch: 0192 cost= 4815.547851562 Training accuracy 0.95238
+Epoch: 0193 cost= 24135.103515625 Training accuracy 0.96429
+Epoch: 0193 cost= 54559.023437500 Training accuracy 0.96429
+Epoch: 0193 cost= 20504.884765625 Training accuracy 0.96429
+Epoch: 0193 cost= 73918.554687500 Training accuracy 0.92857
+Epoch: 0193 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0194 cost= 132997.406250000 Training accuracy 0.85714
+Epoch: 0194 cost= 68951.539062500 Training accuracy 0.92857
+Epoch: 0194 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0194 cost= 50090.832031250 Training accuracy 0.92857
+Epoch: 0194 cost= 11810.119140625 Training accuracy 0.90476
+Epoch: 0195 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0195 cost= 112005.125000000 Training accuracy 0.89286
+Epoch: 0195 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0195 cost= 43217.175781250 Training accuracy 0.92857
+Epoch: 0195 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0196 cost= 10066.031250000 Training accuracy 0.92857
+Epoch: 0196 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0196 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0196 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0196 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0197 cost= 64896.492187500 Training accuracy 0.92857
+Epoch: 0197 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0197 cost= 12808.298828125 Training accuracy 0.96429
+Epoch: 0197 cost= 4849.026855469 Training accuracy 0.96429
+Epoch: 0197 cost= 7970.571289062 Training accuracy 0.95238
+Epoch: 0198 cost= 58431.210937500 Training accuracy 0.92857
+Epoch: 0198 cost= 31608.375000000 Training accuracy 0.92857
+Epoch: 0198 cost= 134180.140625000 Training accuracy 0.85714
+Epoch: 0198 cost= 80843.328125000 Training accuracy 0.96429
+Epoch: 0198 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0199 cost= 83127.039062500 Training accuracy 0.96429
+Epoch: 0199 cost= 71325.804687500 Training accuracy 0.92857
+Epoch: 0199 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0199 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0199 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0200 cost= 53650.492187500 Training accuracy 0.92857
+Epoch: 0200 cost= 26295.222656250 Training accuracy 0.85714
+Epoch: 0200 cost= 2991.750000000 Training accuracy 0.96429
+Epoch: 0200 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0200 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0201 cost= 39632.183593750 Training accuracy 0.96429
+Epoch: 0201 cost= 11123.786132812 Training accuracy 0.92857
+Epoch: 0201 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0201 cost= 13726.178710938 Training accuracy 0.96429
+Epoch: 0201 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0202 cost= 36845.320312500 Training accuracy 0.92857
+Epoch: 0202 cost= 23768.447265625 Training accuracy 0.96429
+2 : 5
+0 : 6
+3 : 2
+Testing Accuracy: 0.8095238
+Epoch: 0202 cost= 26002.437500000 Training accuracy 0.96429
+Epoch: 0202 cost= 4830.928710938 Training accuracy 0.96429
+Epoch: 0202 cost= 85115.296875000 Training accuracy 0.90476
+Epoch: 0203 cost= 1478.879516602 Training accuracy 0.96429
+Epoch: 0203 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0203 cost= 29373.361328125 Training accuracy 0.96429
+Epoch: 0203 cost= 25723.865234375 Training accuracy 0.96429
+Epoch: 0203 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0204 cost= 8669.861328125 Training accuracy 0.96429
+Epoch: 0204 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0204 cost= 2056.473144531 Training accuracy 0.92857
+Epoch: 0204 cost= 4020.232177734 Training accuracy 0.96429
+Epoch: 0204 cost= 134162.281250000 Training accuracy 0.90476
+Epoch: 0205 cost= 120261.890625000 Training accuracy 0.89286
+Epoch: 0205 cost= 3960.848144531 Training accuracy 0.96429
+Epoch: 0205 cost= 118421.085937500 Training accuracy 0.85714
+Epoch: 0205 cost= 39581.429687500 Training accuracy 0.96429
+Epoch: 0205 cost= 7758.511718750 Training accuracy 0.95238
+Epoch: 0206 cost= 87385.460937500 Training accuracy 0.92857
+Epoch: 0206 cost= 73679.070312500 Training accuracy 0.96429
+Epoch: 0206 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0206 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0206 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0207 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0207 cost= 57178.093750000 Training accuracy 0.92857
+Epoch: 0207 cost= 29563.562500000 Training accuracy 0.96429
+Epoch: 0207 cost= 142636.078125000 Training accuracy 0.78571
+Epoch: 0207 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0208 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0208 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0208 cost= 80180.734375000 Training accuracy 0.85714
+Epoch: 0208 cost= 125761.062500000 Training accuracy 0.92857
+Epoch: 0208 cost= 163446.359375000 Training accuracy 0.90476
+Epoch: 0209 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0209 cost= 123223.726562500 Training accuracy 0.96429
+Epoch: 0209 cost= 21878.865234375 Training accuracy 0.96429
+Epoch: 0209 cost= 55437.632812500 Training accuracy 0.96429
+Epoch: 0209 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0210 cost= 160647.796875000 Training accuracy 0.89286
+Epoch: 0210 cost= 26001.080078125 Training accuracy 0.92857
+Epoch: 0210 cost= 132580.781250000 Training accuracy 0.89286
+Epoch: 0210 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0210 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0211 cost= 40655.652343750 Training accuracy 0.92857
+Epoch: 0211 cost= 45515.613281250 Training accuracy 0.92857
+Epoch: 0211 cost= 94314.476562500 Training accuracy 0.92857
+Epoch: 0211 cost= 208685.421875000 Training accuracy 0.85714
+Epoch: 0211 cost= 87900.296875000 Training accuracy 0.95238
+Epoch: 0212 cost= 3617.049072266 Training accuracy 0.96429
+Epoch: 0212 cost= 9113.513671875 Training accuracy 0.96429
+2 : 3
+2 : 3
+0 : 6
+Testing Accuracy: 0.9047619
+Epoch: 0212 cost= 13360.937500000 Training accuracy 0.96429
+Epoch: 0212 cost= 18973.072265625 Training accuracy 0.96429
+Epoch: 0212 cost= 161523.781250000 Training accuracy 0.90476
+Epoch: 0213 cost= 64209.972656250 Training accuracy 0.89286
+Epoch: 0213 cost= 5636.803710938 Training accuracy 0.96429
+Epoch: 0213 cost= 29852.972656250 Training accuracy 0.96429
+Epoch: 0213 cost= 26057.732421875 Training accuracy 0.96429
+Epoch: 0213 cost= 35419.156250000 Training accuracy 0.95238
+Epoch: 0214 cost= 30737.357421875 Training accuracy 0.96429
+Epoch: 0214 cost= 10762.504882812 Training accuracy 0.96429
+Epoch: 0214 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0214 cost= 40937.777343750 Training accuracy 0.96429
+Epoch: 0214 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0215 cost= 15246.312500000 Training accuracy 0.96429
+Epoch: 0215 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0215 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0215 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0215 cost= 45267.488281250 Training accuracy 0.95238
+Epoch: 0216 cost= 19263.857421875 Training accuracy 0.96429
+Epoch: 0216 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0216 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0216 cost= 10135.088867188 Training accuracy 0.96429
+Epoch: 0216 cost= 101188.593750000 Training accuracy 0.90476
+Epoch: 0217 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0217 cost= 75744.898437500 Training accuracy 0.92857
+Epoch: 0217 cost= 3359.490966797 Training accuracy 0.96429
+Epoch: 0217 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0217 cost= 49623.214843750 Training accuracy 0.95238
+Epoch: 0218 cost= 68833.273437500 Training accuracy 0.92857
+Epoch: 0218 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0218 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0218 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0218 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0219 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0219 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0219 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0219 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0219 cost= 30413.357421875 Training accuracy 0.90476
+Epoch: 0220 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0220 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0220 cost= 34950.382812500 Training accuracy 0.96429
+Epoch: 0220 cost= 21939.802734375 Training accuracy 0.96429
+Epoch: 0220 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0221 cost= 22474.615234375 Training accuracy 0.92857
+Epoch: 0221 cost= 25691.017578125 Training accuracy 0.96429
+Epoch: 0221 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0221 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0221 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0222 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0222 cost= 24950.316406250 Training accuracy 0.92857
+6 : 5
+2 : 5
+4 : 3
+6 : 5
+6 : 5
+Testing Accuracy: 0.8095238
+Epoch: 0222 cost= 25926.384765625 Training accuracy 0.96429
+Epoch: 0222 cost= 8285.062500000 Training accuracy 0.92857
+Epoch: 0222 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0223 cost= 70457.273437500 Training accuracy 0.89286
+Epoch: 0223 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0223 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0223 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0223 cost= 81851.687500000 Training accuracy 0.90476
+Epoch: 0224 cost= 4503.830566406 Training accuracy 0.96429
+Epoch: 0224 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0224 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0224 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0224 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0225 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0225 cost= 995.562500000 Training accuracy 0.96429
+Epoch: 0225 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0225 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0225 cost= 25745.316406250 Training accuracy 0.95238
+Epoch: 0226 cost= 8569.919921875 Training accuracy 0.96429
+Epoch: 0226 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0226 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0226 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0226 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0227 cost= 19759.552734375 Training accuracy 0.92857
+Epoch: 0227 cost= 20604.177734375 Training accuracy 0.96429
+Epoch: 0227 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0227 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0227 cost= 46390.261718750 Training accuracy 0.95238
+Epoch: 0228 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0228 cost= 37346.011718750 Training accuracy 0.89286
+Epoch: 0228 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0228 cost= 8502.338867188 Training accuracy 0.96429
+Epoch: 0228 cost= 1379.702392578 Training accuracy 0.95238
+Epoch: 0229 cost= 32846.714843750 Training accuracy 0.96429
+Epoch: 0229 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0229 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0229 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0229 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0230 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0230 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0230 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0230 cost= 10180.661132812 Training accuracy 0.96429
+Epoch: 0230 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0231 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0231 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0231 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0231 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0231 cost= 3816.595214844 Training accuracy 0.95238
+Epoch: 0232 cost= 57823.574218750 Training accuracy 0.96429
+Epoch: 0232 cost= 13591.486328125 Training accuracy 0.96429
+6 : 5
+2 : 3
+3 : 6
+3 : 4
+5 : 6
+Testing Accuracy: 0.9047619
+Epoch: 0232 cost= 8281.290039062 Training accuracy 0.96429
+Epoch: 0232 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0232 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0233 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0233 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0233 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0233 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0233 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0234 cost= 30143.669921875 Training accuracy 0.96429
+Epoch: 0234 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0234 cost= 9840.178710938 Training accuracy 0.96429
+Epoch: 0234 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0234 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0235 cost= 11726.580078125 Training accuracy 0.96429
+Epoch: 0235 cost= 38111.312500000 Training accuracy 0.96429
+Epoch: 0235 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0235 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0235 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0236 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0236 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0236 cost= 24480.044921875 Training accuracy 0.96429
+Epoch: 0236 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0236 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0237 cost= 15164.633789062 Training accuracy 0.92857
+Epoch: 0237 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0237 cost= 66353.757812500 Training accuracy 0.92857
+Epoch: 0237 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0237 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0238 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0238 cost= 41771.550781250 Training accuracy 0.96429
+Epoch: 0238 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0238 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0238 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0239 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0239 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0239 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0239 cost= 23755.535156250 Training accuracy 0.96429
+Epoch: 0239 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0240 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0240 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0240 cost= 5451.366210938 Training accuracy 0.96429
+Epoch: 0240 cost= 3199.517822266 Training accuracy 0.96429
+Epoch: 0240 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0241 cost= 3546.772216797 Training accuracy 0.96429
+Epoch: 0241 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0241 cost= 7966.500000000 Training accuracy 0.96429
+Epoch: 0241 cost= 1693.584838867 Training accuracy 0.96429
+Epoch: 0241 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0242 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0242 cost= 0.000000000 Training accuracy 1.00000
+2 : 3
+0 : 6
+3 : 2
+5 : 6
+Testing Accuracy: 0.85714287
+Epoch: 0242 cost= 902.678588867 Training accuracy 0.96429
+Epoch: 0242 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0242 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0243 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0243 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0243 cost= 7195.616210938 Training accuracy 0.96429
+Epoch: 0243 cost= 19503.375000000 Training accuracy 0.96429
+Epoch: 0243 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0244 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0244 cost= 5920.768066406 Training accuracy 0.96429
+Epoch: 0244 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0244 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0244 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0245 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0245 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0245 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0245 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0245 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0246 cost= 18446.843750000 Training accuracy 0.92857
+Epoch: 0246 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0246 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0246 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0246 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0247 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0247 cost= 21728.853515625 Training accuracy 0.96429
+Epoch: 0247 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0247 cost= 5325.022460938 Training accuracy 0.96429
+Epoch: 0247 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0248 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0248 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0248 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0248 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0248 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0249 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0249 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0249 cost= 1465.098266602 Training accuracy 0.96429
+Epoch: 0249 cost= 137.973220825 Training accuracy 0.96429
+Epoch: 0249 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0250 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0250 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0250 cost= 6130.393066406 Training accuracy 0.96429
+Epoch: 0250 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0250 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0251 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0251 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0251 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0251 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0251 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0252 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0252 cost= 7064.410644531 Training accuracy 0.96429
+2 : 3
+2 : 3
+0 : 6
+Testing Accuracy: 0.9047619
+Epoch: 0252 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0252 cost= 19028.777343750 Training accuracy 0.96429
+Epoch: 0252 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0253 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0253 cost= 17216.027343750 Training accuracy 0.96429
+Epoch: 0253 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0253 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0253 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0254 cost= 20.589284897 Training accuracy 0.96429
+Epoch: 0254 cost= 5083.268066406 Training accuracy 0.96429
+Epoch: 0254 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0254 cost= 14154.741210938 Training accuracy 0.96429
+Epoch: 0254 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0255 cost= 1266.982177734 Training accuracy 0.96429
+Epoch: 0255 cost= 31469.791015625 Training accuracy 0.96429
+Epoch: 0255 cost= 5440.276855469 Training accuracy 0.96429
+Epoch: 0255 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0255 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0256 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0256 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0256 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0256 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0256 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0257 cost= 5670.571289062 Training accuracy 0.96429
+Epoch: 0257 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0257 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0257 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0257 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0258 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0258 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0258 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0258 cost= 411.553558350 Training accuracy 0.96429
+Epoch: 0258 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0259 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0259 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0259 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0259 cost= 13003.763671875 Training accuracy 0.92857
+Epoch: 0259 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0260 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0260 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0260 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0260 cost= 15969.928710938 Training accuracy 0.96429
+Epoch: 0260 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0261 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0261 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0261 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0261 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0261 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0262 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0262 cost= 0.000000000 Training accuracy 1.00000
+2 : 3
+4 : 3
+0 : 1
+Testing Accuracy: 0.85714287
+Epoch: 0262 cost= 44484.355468750 Training accuracy 0.96429
+Epoch: 0262 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0262 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0263 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0263 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0263 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0263 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0263 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0264 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0264 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0264 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0264 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0264 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0265 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0265 cost= 6787.214355469 Training accuracy 0.96429
+Epoch: 0265 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0265 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0265 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0266 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0266 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0266 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0266 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0266 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0267 cost= 6828.758789062 Training accuracy 0.92857
+Epoch: 0267 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0267 cost= 16535.740234375 Training accuracy 0.96429
+Epoch: 0267 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0267 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0268 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0268 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0268 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0268 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0268 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0269 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0269 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0269 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0269 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0269 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0270 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0270 cost= 66999.000000000 Training accuracy 0.96429
+Epoch: 0270 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0270 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0270 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0271 cost= 1959.294677734 Training accuracy 0.96429
+Epoch: 0271 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0271 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0271 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0271 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0272 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0272 cost= 30795.419921875 Training accuracy 0.92857
+6 : 5
+2 : 4
+5 : 0
+Testing Accuracy: 0.85714287
+Epoch: 0272 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0272 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0272 cost= 40197.320312500 Training accuracy 0.95238
+Epoch: 0273 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0273 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0273 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0273 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0273 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0274 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0274 cost= 5397.205566406 Training accuracy 0.96429
+Epoch: 0274 cost= 22793.330078125 Training accuracy 0.96429
+Epoch: 0274 cost= 39849.152343750 Training accuracy 0.96429
+Epoch: 0274 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0275 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0275 cost= 67743.960937500 Training accuracy 0.92857
+Epoch: 0275 cost= 5299.294433594 Training accuracy 0.96429
+Epoch: 0275 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0275 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0276 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0276 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0276 cost= 32708.089843750 Training accuracy 0.96429
+Epoch: 0276 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0276 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0277 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0277 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0277 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0277 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0277 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0278 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0278 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0278 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0278 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0278 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0279 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0279 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0279 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0279 cost= 5864.843750000 Training accuracy 0.96429
+Epoch: 0279 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0280 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0280 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0280 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0280 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0280 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0281 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0281 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0281 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0281 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0281 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0282 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0282 cost= 0.000000000 Training accuracy 1.00000
+6 : 4
+2 : 3
+6 : 5
+5 : 4
+Testing Accuracy: 0.85714287
+Epoch: 0282 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0282 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0282 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0283 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0283 cost= 5864.151855469 Training accuracy 0.96429
+Epoch: 0283 cost= 26631.503906250 Training accuracy 0.96429
+Epoch: 0283 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0283 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0284 cost= 51205.660156250 Training accuracy 0.96429
+Epoch: 0284 cost= 8041.928710938 Training accuracy 0.92857
+Epoch: 0284 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0284 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0284 cost= 17774.285156250 Training accuracy 0.95238
+Epoch: 0285 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0285 cost= 14268.562500000 Training accuracy 0.96429
+Epoch: 0285 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0285 cost= 18667.697265625 Training accuracy 0.96429
+Epoch: 0285 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0286 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0286 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0286 cost= 11906.375000000 Training accuracy 0.96429
+Epoch: 0286 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0286 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0287 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0287 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0287 cost= 31724.027343750 Training accuracy 0.96429
+Epoch: 0287 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0287 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0288 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0288 cost= 33768.617187500 Training accuracy 0.96429
+Epoch: 0288 cost= 18967.736328125 Training accuracy 0.96429
+Epoch: 0288 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0288 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0289 cost= 16057.625000000 Training accuracy 0.96429
+Epoch: 0289 cost= 23397.982421875 Training accuracy 0.92857
+Epoch: 0289 cost= 18519.322265625 Training accuracy 0.96429
+Epoch: 0289 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0289 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0290 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0290 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0290 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0290 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0290 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0291 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0291 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0291 cost= 32501.267578125 Training accuracy 0.92857
+Epoch: 0291 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0291 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0292 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0292 cost= 0.000000000 Training accuracy 1.00000
+6 : 3
+2 : 3
+0 : 1
+6 : 5
+3 : 2
+5 : 2
+Testing Accuracy: 0.7619048
+Epoch: 0292 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0292 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0292 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0293 cost= 50539.722656250 Training accuracy 0.96429
+Epoch: 0293 cost= 7046.776855469 Training accuracy 0.96429
+Epoch: 0293 cost= 34318.750000000 Training accuracy 0.96429
+Epoch: 0293 cost= 6826.486816406 Training accuracy 0.96429
+Epoch: 0293 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0294 cost= 44680.500000000 Training accuracy 0.92857
+Epoch: 0294 cost= 11247.107421875 Training accuracy 0.96429
+Epoch: 0294 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0294 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0294 cost= 32869.558593750 Training accuracy 0.95238
+Epoch: 0295 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0295 cost= 11939.758789062 Training accuracy 0.96429
+Epoch: 0295 cost= 10823.357421875 Training accuracy 0.96429
+Epoch: 0295 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0295 cost= 12546.937500000 Training accuracy 0.95238
+Epoch: 0296 cost= 9261.286132812 Training accuracy 0.96429
+Epoch: 0296 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0296 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0296 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0296 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0297 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0297 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0297 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0297 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0297 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0298 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0298 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0298 cost= 52668.972656250 Training accuracy 0.92857
+Epoch: 0298 cost= 15499.593750000 Training accuracy 0.96429
+Epoch: 0298 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0299 cost= 41261.152343750 Training accuracy 0.96429
+Epoch: 0299 cost= 3616.062500000 Training accuracy 0.96429
+Epoch: 0299 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0299 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0299 cost= 26144.072265625 Training accuracy 0.90476
+Epoch: 0300 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0300 cost= 0.000000000 Training accuracy 1.00000
+Epoch: 0300 cost= 4790.000000000 Training accuracy 0.96429
+Epoch: 0300 cost= 31211.126953125 Training accuracy 0.96429
+Epoch: 0300 cost= 0.000000000 Training accuracy 1.00000
+Optimization Completed
+test_y      : [6 5 5 1 2 1 0 2 2 3 4 4 6 0 4 0 1 3 6 3 5]
+test_classes: [6 5 5 1 2 1 0 3 2 3 4 4 6 6 4 0 1 3 6 4 4]
+2 - 3 0 - 6 3 - 4 5 - 4 Testing Accuracy: 0.71428573
+result: {1: 0.23809524, 11: 0.5714286, 21: 0.61904764, 31: 0.6666667, 41: 0.85714287, 51: 0.7619048, 61: 0.7619048, 71: 0.71428573, 81: 0.71428573, 91: 0.7619048, 101: 0.9047619, 111: 0.9047619, 121: 0.7619048, 131: 0.9047619, 141: 0.71428573, 151: 0.8095238, 161: 0.7619048, 171: 0.8095238, 181: 0.71428573, 191: 0.71428573, 201: 0.8095238, 211: 0.9047619, 221: 0.8095238, 231: 0.9047619, 241: 0.85714287, 251: 0.9047619, 261: 0.85714287, 271: 0.85714287, 281: 0.85714287, 291: 0.7619048}
